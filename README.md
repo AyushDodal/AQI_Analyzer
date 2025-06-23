@@ -32,4 +32,6 @@ Transformed data according to the data model specifications.
 Created a database to store 80+ million records in a structured manner.
 
 ### PowerBI: 
-Visualized the data, enabling users to gain valuable insights. https://ayushdodal.github.io/AQI_Analyzer/
+Visualized the data, enabling users to gain valuable insights.
+![image](https://github.com/user-attachments/assets/7eb7eb2c-151c-44fc-a5d9-80695a7e25bb)
+
